@@ -62,7 +62,7 @@ body {
 
 .gallery {
     display: grid;
-    grid-template-columns: repeat(2, 1fr); Two columns per row */
+    grid-template-columns: repeat(2, 1fr);/* Two columns per row */
     gap: 20px; /* Space between the images */
     margin: 20px;
 }
